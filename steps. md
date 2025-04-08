@@ -1,0 +1,26 @@
+# steps 
+1. Gathering data 
+2. Assessing the data 
+3. Cleaning the data 
+    1. Dealing with missing values [ visualization]
+    2.Correcting errors in the data (esko hum outliers bhee boltey hai) 
+            1. outliers removal 
+            1. visualization
+            2. IQR method 
+            3. Z- score
+    3. Droping duplicates 
+    4. Transforming the data 
+       1. normalize the data ( Data normalization ) 
+           1.min-max normalization 
+           2.standard scaler 
+           2. winsorization 
+           3. z- score normalization 
+           4. decimal scaling 
+           6. log transformation 
+5. FEATURE ENGINEERING
+
+6. Data organization 
+         1. columns creation 
+         2. and rename data   
+
+ 7.saving the data to be use
